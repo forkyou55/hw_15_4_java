@@ -1,4 +1,4 @@
-public class hwJava {
+public class HwJava {
         public static void main(String[] args) {
             boolean meaning = true;
             byte aByte;// 8 бит (-128/127)
